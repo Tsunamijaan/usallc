@@ -1,0 +1,232 @@
+ 
+/*********************** XL Device :1200px. ************************************/
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/********************************* LG Device :992px. ***************************/
+@media (min-width: 992px) and (max-width: 1200px) {
+  .footer-top-section .footer-logo-area img {
+	width: 320px;
+	 
+}
+    
+    .single-pricing h2 {
+	font-size: 25px;
+}
+.header-section .main-menu-area ul li {
+	 
+	margin-right: 40px;
+	 
+}
+.women img {
+	width: 78%;
+}
+}
+
+
+/****************************** MD Device :768px. ******************************/
+@media (min-width: 768px) and (max-width: 991px) {
+.logo-area img {
+	width: 100%;
+}
+
+.contact-number {
+	 
+	font-size: 14px;
+	margin-top: 7px;
+}
+.header-section .main-menu-area ul li {
+	 
+	margin-right: 20px;
+	text-transform: capitalize;
+	 
+}
+.testimonial-section p {
+	 
+	font-size: 20px;
+	 
+}
+.slider-section .slider-active .slider-items .slider-item h3 {
+	font-size: 25px;
+	 
+}
+ 
+.slider-section .slider-active .slider-items .slider-item span {
+	font-size: 19px;
+	/* margin-bottom: 10px; */
+	display: block;
+}
+.slider-section .slider-active .slider-items .slider-item h4 {
+	 
+	font-size: 15px;
+}
+.slider-section .slider-active .slider-items .slider-item a button {
+	 
+	 margin-left: 0px;
+	 
+}
+ .single-pricing h2 {
+	font-size: 20px;
+}
+ .left-img img {
+	width: 100%;
+	margin: auto;
+}
+ .right-img img {
+	max-width: 100%;
+	margin: auto;
+}
+
+.footer-top-section .footer-logo-area img {
+	width: 100%;
+ 
+}
+.information-area {
+	text-align: left;
+	margin-left: 70px;
+	 
+}
+
+.footer-logo-area {
+	margin-bottom: 30px;
+}
+.follow-area {
+	margin-left: 60px;
+}
+.women img {
+	width: 78%;
+}
+}
+
+/******************* SM Small Device :550px. ***********************************/
+@media (min-width: 576px) and (max-width: 767px) {
+ .single-pricing {
+	margin-bottom: 30px;
+	border: 1px solid #ddd;
+	padding: 20px 0;
+}
+.slider-section .slider-active .slider-items .slider-item a button {
+	 
+ 
+	 margin-left: 0px; 
+ 
+	 
+}
+.owl-carousel .owl-item img {
+	 
+	margin-left: -10px;
+}
+.testimonial-section p {
+	 
+	font-size: 15px;
+	 
+	line-height: 57px;
+	 
+}
+
+.single-how-right {
+	 
+	width: 100%;
+	 
+	margin-bottom: 30px;
+}
+
+.left-img img {
+	width: 80%;
+	margin: auto;
+}
+
+.right-img img {
+	width: 76%;
+	margin-top: -24px;
+}
+.single-about h3 {
+	text-align: center;
+}
+.single-about p {
+	margin-bottom: 30px;
+}
+.single-about {
+	text-align: justify;
+}
+.single-about-right {
+	 
+	margin-left: -60px;
+}
+.single-about-right h3 {
+	text-align: center;
+}
+.footer-top-section .footer-logo-area img {
+	width: 100%;
+	 
+}
+
+.information-area h3 {
+	font-size: 20px;
+}
+
+
+.single-how-right {
+	width: 100%;
+}
+.women img {
+	width: 68%;
+}
+}
+
+
+
+/*************************** SM Small Device :0px. *****************************/
+@media (max-width: 575.98px) { 
+  
+ .header-top-section .logo-area img {
+	width: 100%;
+}
+    
+    .left-img img {
+	width: 100%;
+}  
+ 
+ .right-img img {
+	max-width: 83%;
+        margin-top: 8px;
+        
+}
+.get-job-content h3 {
+	font-size: 20px;
+}
+.footer-bottom-section .reserved-area span {
+	 
+	font-size: 15px;
+}
+ .single-how-right {
+	margin-bottom: 30px;
+}
+.get-button {
+	 
+	width: 72%;
+	 
+	padding: 10px 0;
+}
+.slider-section .slider-active .slider-items .slider-item a button {
+	 
+	margin-left: 0;
+  
+	margin-bottom: 30px;
+}
+.testimonial-section p {
+ 
+	font-size: 20px;
+	 
+	line-height: 40px;
+	 
+}
+.single-how-right {
+	width: 100%;
+}
+.women img {
+	width: 78%;
+}
+}
